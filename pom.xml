@@ -50,7 +50,7 @@
 		<module>build-tools</module>
 		<module>cayenne-ant</module>
 		<module>cayenne-cache-invalidation</module>
-		<module>cayenne-cgen</module>
+		<module>cayenne-cgen</module><!--
 		<module>cayenne-client</module>
 		<module>cayenne-client-jetty</module>
 		<module>cayenne-commitlog</module>
@@ -77,7 +77,7 @@
 		<module>modeler</module>
 		<module>tutorials</module>
 		<module>docs</module>
-		<module>assembly</module>
+		<module>assembly</module>-->
 	</modules>
 	<issueManagement>
 		<system>jira</system>
