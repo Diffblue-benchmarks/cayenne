@@ -80,3 +80,9 @@ phases:
     max-nondet-string-length: 100
     unwind: 10
 units:
+  # Target Coverage: Unknown %
+  - target:
+    - dir: cayenne-cgen/target/classes
+      file: org/apache/cayenne/gen/StringUtils.class
+      sourceDir: cayenne-cgen/src/main/java
+      sourceFile: org/apache/cayenne/gen/StringUtils.java
